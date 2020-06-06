@@ -10,3 +10,17 @@ while i!=n-2:
     s=t
     print(t)
     i=i+1
+#second program
+mylist = [12,-7,5,64,-14]
+print("mylist= ",mylist)
+print("positive no in mylist: ")
+for n in mylist:
+    if n>0:
+     print(n)
+mylist = [12,14,-95,3]
+print("mylist",mylist)
+print("positive no in mylist: ")
+for n in mylist:
+    if n>0:
+     print(n)
+    
